@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab_vietnam"
+        icon="@drawable/ic_library_music_black_24dp"
+        title="Nhạc Việt"
+        barColorWhenSelected="#15baa9"
+        />
+
+    <tab
+        id="@+id/tab_usuk"
+        icon="@drawable/ic_loyalty_black_24dp"
+        title="US-UK"
+        barColorWhenSelected="#441090"
+        />
+
+
+    <tab
+        id="@+id/tab_download"
+        icon="@drawable/ic_favorite_black_24dp"
+        title="Yêu thích"
+        barColorWhenSelected="#eb0096"
+        />
+
+</tabs>
